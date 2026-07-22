@@ -1,6 +1,4 @@
 {
-  "00020895": "Moduł Usługi i rozrywka (SEM)",
-  "00594269": "Moduł klimatyzacji (CCM)",
   "21184825": "Moduł regulowania oczyszczania spalin (ACM)",
   "21210578": "Moduł sterujący silnika (EMS)",
   "21476493": "Układ aktywnego kierowania osi przedniej (FAS)",
@@ -43,7 +41,7 @@
   "22481330": "Moduł We/Wy środkowej części podwozia (CCIOM)",
   "22481332": "Moduł We/Wy środkowej części podwozia (CCIOM)",
   "22482366": "Moduł klimatyzacji (CCM)",
-  "22555751": "Bramka współpracująca z systemem telematyki (TGW)",
+  "22555751": "Czujnik pozycji na pasie i obiektów (LPOS)",
   "22562841": "Bezprzewodowa brama zdalna (WRG)",
   "22584970": "System audio (Audio)",
   "22586198": "DTCO tachometru cyfrowego (DTACHO)",
@@ -73,6 +71,7 @@
   "23068105": "Jednostka sterująca układów wspomagania pracy kierowcy (DACU)",
   "23081389": "DTCO tachometru cyfrowego (DTACHO)",
   "23081390": "DTCO tachometru cyfrowego (DTACHO)",
+  "23090116": "Moduł Usługi i rozrywka (SEM)",
   "23121452": "Czujnik pozycji na pasie i obiektów (LPOS)",
   "23123415": "Przedni czujnik śledzenia (FLS)",
   "23140886": "Moduł We/Wy przedniej części podwozia (FCIOM)",
