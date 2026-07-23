@@ -41,7 +41,7 @@
   "22481330": "Moduł We/Wy środkowej części podwozia (CCIOM)",
   "22481332": "Moduł We/Wy środkowej części podwozia (CCIOM)",
   "22482366": "Moduł klimatyzacji (CCM)",
-  "22555751": "Czujnik pozycji na pasie i obiektów (LPOS)",
+  "22555751": "Bramka współpracująca z systemem telematyki (TGW)",
   "22562841": "Bezprzewodowa brama zdalna (WRG)",
   "22584970": "System audio (Audio)",
   "22586198": "DTCO tachometru cyfrowego (DTACHO)",
@@ -145,8 +145,8 @@
   "24739196": "DTCO tachometru cyfrowego (DTACHO)",
   "24813759": "DTCO tachometru cyfrowego (DTACHO)",
   "24813827": "DTCO tachometru cyfrowego (DTACHO)",
-  "82571728": "Moduł klimatyzacji (CCM)"
-  "23544009": "Bramka współpracująca z systemem telematyki (TGW)"
-  "24240673": "DTCO tachometru cyfrowego (DTACHO)"
+  "82571728": "Moduł klimatyzacji (CCM)",
+  "23544009": "Bramka współpracująca z systemem telematyki (TGW)",
+  "24240673": "DTCO tachometru cyfrowego (DTACHO)",
   "23444203": "Układ aktywnego kierowania osi przedniej (FAS)"
 }
